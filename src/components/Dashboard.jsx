@@ -5,7 +5,6 @@ import HabitForm from "./HabitForm";
 import HabitList from "./HabitList";
 import HabitChart from "./HabitChart";
 import { useHabits } from "../context/HabitContext";
-import { FormatUnderlined } from "@mui/icons-material";
 
 const StyledPaper = styled(Paper)`
   padding: 16px;

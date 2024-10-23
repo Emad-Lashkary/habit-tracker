@@ -1,4 +1,3 @@
-// src/components/UserProfile.jsx
 import { Box, Typography, TextField, Button, Paper } from "@mui/material";
 import { useState } from "react";
 

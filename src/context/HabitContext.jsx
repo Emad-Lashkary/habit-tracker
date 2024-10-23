@@ -1,4 +1,3 @@
-// src/context/HabitContext.jsx
 import PropTypes from "prop-types";
 import { createContext, useContext, useState } from "react";
 
