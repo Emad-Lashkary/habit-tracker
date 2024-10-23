@@ -1,0 +1,19 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding-top: 20px;
+}
+
+:root {
+  --color-primary-50: #ede7f6;
+  --color-primary-100: #d1c4e9;
+  --color-primary-200: #b39ddb;
+  --color-primary-300: #9575cd;
+  --color-primary-400: #7e57c2;
+  --color-primary-500: #673ab7;
+  --color-primary-600: #5e35b1;
+  --color-primary-700: #512da8;
+  --color-primary-800: #4527a0;
+  --color-primary-900: #311b92;
+}
